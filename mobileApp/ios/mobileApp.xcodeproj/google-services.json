@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "238863668938",
+    "firebase_url": "https://reactnativemobile-eabde.firebaseio.com",
+    "project_id": "reactnativemobile-eabde",
+    "storage_bucket": "reactnativemobile-eabde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238863668938:android:95ad17609d3daad7384633",
+        "android_client_info": {
+          "package_name": "com.mobileApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238863668938-85jjqd8q5b6kckoh6p1jpb9aojbt069a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1vHJrtzE4BJQnsKG_p6a3KdNEVNUJu34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238863668938-85jjqd8q5b6kckoh6p1jpb9aojbt069a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
